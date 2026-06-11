@@ -1,0 +1,6 @@
+{
+  "name": "Mandarin Pronounce",
+  "description": "A clean, minimalist English-to-Mandarin translator designed to build accurate speech and tone recognition. Features pinyin, breakdown notes, and high-quality speaker audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
